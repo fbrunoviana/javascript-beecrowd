@@ -23,4 +23,3 @@ Para fazer isso, basta:
 ```js
 console.log("Hello World!");
 ```
-```

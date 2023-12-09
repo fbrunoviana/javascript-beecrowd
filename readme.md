@@ -24,6 +24,3 @@ Sugestões e contribuições são bem-vindas. Por favor, abra um 'issue' ou 'pul
 ## Licença
 Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
 
----
-
-> **Nota:** Este é um exemplo de README para um repositório de soluções de exercícios do BeeCrowd. Sinta-se livre para ajustá-lo conforme necessário!

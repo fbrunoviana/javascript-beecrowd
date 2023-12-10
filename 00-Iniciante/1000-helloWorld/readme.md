@@ -24,6 +24,6 @@ Para fazer isso, basta:
 console.log("Hello World!");
 ```
 
->Proximo desafio
+### Proximo desafio:
 
-![1001-Extremamente Básico](https://github.com/fbrunoviana/javascript-beecrowd/tree/main/00-Iniciante/1001-Extremamente%20B%C3%A1sico)
+[1001-Extremamente Básico](https://github.com/fbrunoviana/javascript-beecrowd/tree/main/00-Iniciante/1001-Extremamente%20B%C3%A1sico)

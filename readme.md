@@ -33,7 +33,7 @@ Para executar qualquer solução, basta rodar o arquivo `.js` correspondente em 
 | 1009 | salarioComBonus | [1009](https://github.com/fbrunoviana/javascript-beecrowd/tree/main/00-Iniciante/1009-salarioComBonus) | ✅
 | 1010 | calculo | [1010](https://github.com/fbrunoviana/javascript-beecrowd/tree/main/00-Iniciante/1010-calculo) | ✅
 | 1011 | esfera | [1011](https://github.com/fbrunoviana/javascript-beecrowd/tree/main/00-Iniciante/1011-esfera) | ✅
-
+| 1020 | diasEmAnos | [1020](https://github.com/fbrunoviana/javascript-beecrowd/tree/main/00-Iniciante/1020-diasEmAnos) | ✅
 ## Contribuições
 Sugestões e contribuições são bem-vindas. Por favor, abra um 'issue' ou 'pull request' para colaborar.
 

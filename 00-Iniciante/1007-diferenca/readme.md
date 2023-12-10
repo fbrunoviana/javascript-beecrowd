@@ -18,4 +18,4 @@ a * b - c * d
 
 ### Proximo desafio
 
-[1006-Media](https://github.com/fbrunoviana/javascript-beecrowd/tree/main/00-Iniciante/1008-salario)
+[1007-Salario](https://github.com/fbrunoviana/javascript-beecrowd/tree/main/00-Iniciante/1008-salario)

@@ -19,7 +19,7 @@ Cada exercício resolvido está organizado em uma pasta separada, contendo:
 Para executar qualquer solução, basta rodar o arquivo `.js` correspondente em um ambiente que suporte JavaScript (como Node.js).
 
 ## Tabela dos desafios 
-| ID | Desafio | Link | Progresso |
+| ID | Desafio | Link | Status |
 | --- | --- | --- | --- |
 | 1000 | helloWorld | [1000](https://github.com/fbrunoviana/javascript-beecrowd/tree/main/00-Iniciante/1000-helloWorld) | ✅
 | 1001 | extremamenteBasico | [1001](https://github.com/fbrunoviana/javascript-beecrowd/tree/main/00-Iniciante/1001-extremamenteBasico) | ✅
@@ -34,9 +34,9 @@ Para executar qualquer solução, basta rodar o arquivo `.js` correspondente em 
 | 1010 | calculo | [1010](https://github.com/fbrunoviana/javascript-beecrowd/tree/main/00-Iniciante/1010-calculo) | ✅
 | 1011 | esfera | [1011](https://github.com/fbrunoviana/javascript-beecrowd/tree/main/00-Iniciante/1011-esfera) | ✅
 | 1020 | diasEmAnos | [1020](https://github.com/fbrunoviana/javascript-beecrowd/tree/main/00-Iniciante/1020-diasEmAnos) | ✅
+
 ## Contribuições
 Sugestões e contribuições são bem-vindas. Por favor, abra um 'issue' ou 'pull request' para colaborar.
 
 ## Licença
 Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
-

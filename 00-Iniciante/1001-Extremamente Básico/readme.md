@@ -35,3 +35,7 @@ E por ultimo imprima o valor da variável `x` no formato pedido no desafio:
 ```js
 console.log(`X = ${x}`)
 ```
+
+### Proximo desafio:
+
+[1002-calculandoPi](https://github.com/fbrunoviana/javascript-beecrowd/tree/main/00-Iniciante/1002-calculandoPi)

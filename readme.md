@@ -19,8 +19,8 @@ Cada exercício resolvido está organizado em uma pasta separada, contendo:
 Para executar qualquer solução, basta rodar o arquivo `.js` correspondente em um ambiente que suporte JavaScript (como Node.js).
 
 ## Tabela dos desafios 
-| ID | Desafio | Link | Status |
-| --- | --- | --- | --- |
+
+| ID | Nome | Link | Status |
 | 1000 | helloWorld | [1000](https://github.com/fbrunoviana/javascript-beecrowd/tree/main/00-Iniciante/1000-helloWorld) | ✅
 | 1001 | extremamenteBasico | [1001](https://github.com/fbrunoviana/javascript-beecrowd/tree/main/00-Iniciante/1001-extremamenteBasico) | ✅
 | 1002 | calculandoPi | [1002](https://github.com/fbrunoviana/javascript-beecrowd/tree/main/00-Iniciante/1002-calculandoPi) | ✅
@@ -33,6 +33,9 @@ Para executar qualquer solução, basta rodar o arquivo `.js` correspondente em 
 | 1009 | salarioComBonus | [1009](https://github.com/fbrunoviana/javascript-beecrowd/tree/main/00-Iniciante/1009-salarioComBonus) | ✅
 | 1010 | calculo | [1010](https://github.com/fbrunoviana/javascript-beecrowd/tree/main/00-Iniciante/1010-calculo) | ✅
 | 1011 | esfera | [1011](https://github.com/fbrunoviana/javascript-beecrowd/tree/main/00-Iniciante/1011-esfera) | ✅
+| 1012 | area | [1012](https://github.com/fbrunoviana/javascript-beecrowd/tree/main/00-Iniciante/1012-area) | ✅
+| 1013 | oMaior | [1013](https://github.com/fbrunoviana/javascript-beecrowd/tree/main/00-Iniciante/1013-oMaior) | ✅
+| 1014 | consumo | [1014](https://github.com/fbrunoviana/javascript-beecrowd/tree/main/00-Iniciante/1014-consumo) | ⏳
 | 1020 | diasEmAnos | [1020](https://github.com/fbrunoviana/javascript-beecrowd/tree/main/00-Iniciante/1020-diasEmAnos) | ✅
 
 ## Contribuições

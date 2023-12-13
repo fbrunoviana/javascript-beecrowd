@@ -38,7 +38,9 @@ Para executar qualquer solução, basta rodar o arquivo `.js` correspondente em 
 | 1013 | oMaior | [1013](https://github.com/fbrunoviana/javascript-beecrowd/tree/main/00-Iniciante/1013-oMaior) | ✅ |
 | 1014 | consumo | [1014](https://github.com/fbrunoviana/javascript-beecrowd/tree/main/00-Iniciante/1014-consumo) | ✅ |
 | 1015 | distanciaEntreDoisPontos | [1015](https://github.com/fbrunoviana/javascript-beecrowd/tree/main/00-Iniciante/1015-distanciaEntreDoisPontos) | ✅ |
-| 1016 | distancia | [1016](https://github.com/fbrunoviana/javascript-beecrowd/tree/main/00-Iniciante/1016-distancia) | ⏳ |
+| 1016 | distancia | [1016](https://github.com/fbrunoviana/javascript-beecrowd/tree/main/00-Iniciante/1016-distancia) | ✅ |
+| 1017 | gastoDeCombustivel | [1017](https://github.com/fbrunoviana/javascript-beecrowd/tree/main/00-Iniciante/1017-gastoDeCombustivel) | ✅ |
+| 1018 | cedulas | [1018](https://github.com/fbrunoviana/javascript-beecrowd/tree/main/00-Iniciante/1018-cedulas) | ✅ |
 | 1020 | diasEmAnos | [1020](https://github.com/fbrunoviana/javascript-beecrowd/tree/main/00-Iniciante/1020-diasEmAnos) | ✅ |
 
 

@@ -41,8 +41,12 @@ Para executar qualquer solução, basta rodar o arquivo `.js` correspondente em 
 | 1016 | distancia | [1016](https://github.com/fbrunoviana/javascript-beecrowd/tree/main/00-Iniciante/1016-distancia) | ✅ |
 | 1017 | gastoDeCombustivel | [1017](https://github.com/fbrunoviana/javascript-beecrowd/tree/main/00-Iniciante/1017-gastoDeCombustivel) | ✅ |
 | 1018 | cedulas | [1018](https://github.com/fbrunoviana/javascript-beecrowd/tree/main/00-Iniciante/1018-cedulas) | ✅ |
+| 1019 | conversaoDeNumeros | [1019](https://github.com/fbrunoviana/javascript-beecrowd/tree/main/00-Iniciante/1019-conversaoDeNumeros) | ✅ |
 | 1020 | diasEmAnos | [1020](https://github.com/fbrunoviana/javascript-beecrowd/tree/main/00-Iniciante/1020-diasEmAnos) | ✅ |
-
+| 1021 | notasEMoedas | [1021](https://github.com/fbrunoviana/javascript-beecrowd/tree/main/00-Iniciante/1021-notasEMoedas) | ✅ |
+| 1035 | testeSelecao | [1035](https://github.com/fbrunoviana/javascript-beecrowd/tree/main/00-Iniciante/1035-testeSelecao) | ✅ |
+| 1036 | formulaDeBhaskara | [1036](https://github.com/fbrunoviana/javascript-beecrowd/tree/main/00-Iniciante/1036-formulaDeBhaskara) | ... |
+| 1037 | intervalo | [1037](https://github.com/fbrunoviana/javascript-beecrowd/tree/main/00-Iniciante/1037-intervalo) | ... |
 
 ## Contribuições
 Sugestões e contribuições são bem-vindas. Por favor, abra um 'issue' ou 'pull request' para colaborar.

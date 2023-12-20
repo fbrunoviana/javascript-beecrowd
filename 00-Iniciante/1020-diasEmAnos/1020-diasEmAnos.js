@@ -1,4 +1,6 @@
 // https://www.beecrowd.com.br/judge/pt/problems/view/1020
+var input = require('fs').readFileSync('/dev/stdin', 'utf8');
+var lines = input.split('\n');
 
 let dias = Number(lines[0])
 let anos = parseInt(dias / 365)

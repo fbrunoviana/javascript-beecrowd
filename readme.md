@@ -45,9 +45,10 @@ Para executar qualquer solução, basta rodar o arquivo `.js` correspondente em 
 | 1020 | diasEmAnos | [1020](https://github.com/fbrunoviana/javascript-beecrowd/tree/main/00-Iniciante/1020-diasEmAnos) | ✅ |
 | 1021 | notasEMoedas | [1021](https://github.com/fbrunoviana/javascript-beecrowd/tree/main/00-Iniciante/1021-notasEMoedas) | ✅ |
 | 1035 | testeSelecao | [1035](https://github.com/fbrunoviana/javascript-beecrowd/tree/main/00-Iniciante/1035-testeSelecao) | ✅ |
-| 1036 | formulaDeBhaskara | [1036](https://github.com/fbrunoviana/javascript-beecrowd/tree/main/00-Iniciante/1036-formulaDeBhaskara) | ... |
-| 1037 | intervalo | [1037](https://github.com/fbrunoviana/javascript-beecrowd/tree/main/00-Iniciante/1037-intervalo) | ... |
-
+| 1036 | formulaDeBhaskara | [1036](https://github.com/fbrunoviana/javascript-beecrowd/tree/main/00-Iniciante/1036-formulaDeBhaskara) |  ✅ |
+| 1037 | intervalo | [1037](https://github.com/fbrunoviana/javascript-beecrowd/tree/main/00-Iniciante/1037-intervalo) |  ✅ |
+| 1038 | lanche | [1038](https://github.com/fbrunoviana/javascript-beecrowd/tree/main/00-Iniciante/1038-lanche) |  ✅ |
+    
 ## Contribuições
 Sugestões e contribuições são bem-vindas. Por favor, abra um 'issue' ou 'pull request' para colaborar.
 

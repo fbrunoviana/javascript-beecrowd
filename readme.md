@@ -10,6 +10,11 @@ Bruno Viana - [Perfil BeeCrowd](https://www.beecrowd.com.br/judge/pt/profile/120
 ## Tecnologias Utilizadas
 - JavaScript
 
+## Anotacoes
+Faço anotacoes simples do meu aprendizado:
+Anotacoes - [Acesse aqui](https://github.com/fbrunoviana/javascript-beecrowd/tree/main/01-anotacoes)
+
+
 ## Estrutura do Repositório
 Cada exercício resolvido está organizado em uma pasta separada, contendo:
 1. O arquivo de código-fonte `.js` com a solução.
@@ -48,7 +53,7 @@ Para executar qualquer solução, basta rodar o arquivo `.js` correspondente em 
 | 1036 | formulaDeBhaskara | [1036](https://github.com/fbrunoviana/javascript-beecrowd/tree/main/00-Iniciante/1036-formulaDeBhaskara) |  ✅ |
 | 1037 | intervalo | [1037](https://github.com/fbrunoviana/javascript-beecrowd/tree/main/00-Iniciante/1037-intervalo) |  ✅ |
 | 1038 | lanche | [1038](https://github.com/fbrunoviana/javascript-beecrowd/tree/main/00-Iniciante/1038-lanche) |  ✅ |
-    
+
 ## Contribuições
 Sugestões e contribuições são bem-vindas. Por favor, abra um 'issue' ou 'pull request' para colaborar.
 

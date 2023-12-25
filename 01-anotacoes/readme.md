@@ -173,3 +173,43 @@ let saida = guelo('Queima'); // 'Guelo Queima <3'
 ```
 
 ## Objetos
+
+Objetos são containers para chamar propiedades e metodos.
+
+```js
+let guelo {
+    nome: 'Guelo',
+    idade: 24,
+    falar: function() {
+        return 'Ola, eu sou o ' + this.nome;
+    }
+}
+```
+
+Acessando propriedades:
+```js
+console.log(guelo.nome); // 'Guelo'
+```
+
+Chamando metodos:
+```js
+console.log(guelo.falar()); // 'Ola, eu sou o Guelo'
+```
+
+## Eventos
+
+Eventos são chamados quando algo acontece, como clique em um botão por exemplo.
+
+```js
+button.addEventListener('click', function() {
+    console.log('Clicou');
+});
+```
+
+Input:
+
+```js
+document. getElementByld ('myInput'). addEventListener ('input', function () {      
+    console. log ('Input changed ! ' ) ;
+});
+```

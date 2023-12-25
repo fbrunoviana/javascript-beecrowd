@@ -55,7 +55,8 @@ Para executar qualquer solução, basta rodar o arquivo `.js` correspondente em 
 | 1038 | lanche | [1038](https://github.com/fbrunoviana/javascript-beecrowd/tree/main/00-Iniciante/1038-lanche) |  ✅ |
 | 1040 | Media3 | [1040](https://github.com/fbrunoviana/javascript-beecrowd/tree/main/00-Iniciante/1040-mediaTres) |  ✅ |
 | 1041 | Coordenadas | [1040](https://github.com/fbrunoviana/javascript-beecrowd/tree/main/00-Iniciante/1041-coordenadasDeUmPonto) |  ✅ |
-| 1042 | sort | [1042](https://github.com/fbrunoviana/javascript-beecrowd/tree/main/00-Iniciante/1042-sort) |  ... |
+| 1042 | sort | [1042](https://github.com/fbrunoviana/javascript-beecrowd/tree/main/00-Iniciante/1042-sort) |  ✅ |
+| 1043 | triangulo | [1042](https://github.com/fbrunoviana/javascript-beecrowd/tree/main/00-Iniciante/1043-triangulo) |  ... |
 
 ## Contribuições
 Sugestões e contribuições são bem-vindas. Por favor, abra um 'issue' ou 'pull request' para colaborar.

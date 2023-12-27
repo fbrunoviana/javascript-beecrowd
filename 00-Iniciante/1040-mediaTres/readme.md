@@ -64,4 +64,4 @@ calcularMediaFinal(notas, notaExame);
 
 
 ## Proximo Desafio
-[1041-Coordenadas de um Ponto](https://github.com/fbrunoviana/javascript-beecrowd/tree/main/00-Iniciante/1041-coordenadasDeUmPonto)
+[1043-multiplos](https://github.com/fbrunoviana/javascript-beecrowd/tree/main/00-Iniciante/1043-multiplos)

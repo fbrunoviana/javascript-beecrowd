@@ -54,11 +54,11 @@ Para executar qualquer solução, basta rodar o arquivo `.js` correspondente em 
 | 1037 | intervalo | [1037](https://github.com/fbrunoviana/javascript-beecrowd/tree/main/00-Iniciante/1037-intervalo) |  ✅ |
 | 1038 | lanche | [1038](https://github.com/fbrunoviana/javascript-beecrowd/tree/main/00-Iniciante/1038-lanche) |  ✅ |
 | 1040 | Media3 | [1040](https://github.com/fbrunoviana/javascript-beecrowd/tree/main/00-Iniciante/1040-mediaTres) |  ✅ |
-| 1041 | Coordenadas | [1040](https://github.com/fbrunoviana/javascript-beecrowd/tree/main/00-Iniciante/1041-coordenadasDeUmPonto) |  ✅ |
+| 1041 | Coordenadas | [1041](https://github.com/fbrunoviana/javascript-beecrowd/tree/main/00-Iniciante/1041-coordenadasDeUmPonto) |  ✅ |
 | 1042 | sort | [1042](https://github.com/fbrunoviana/javascript-beecrowd/tree/main/00-Iniciante/1042-sort) |  ✅ |
-| 1043 | triangulo | [1042](https://github.com/fbrunoviana/javascript-beecrowd/tree/main/00-Iniciante/1043-triangulo) |  ✅ |
-| 1044 | multiplos | [1044-multiplos](https://github.com/fbrunoviana/javascript-beecrowd/tree/main/00-Iniciante/1044-multiplos) |  ... |
-
+| 1043 | triangulo | [1043](https://github.com/fbrunoviana/javascript-beecrowd/tree/main/00-Iniciante/1043-triangulo) |  ✅ |
+| 1044 | multiplos | [1044](https://github.com/fbrunoviana/javascript-beecrowd/tree/main/00-Iniciante/1044-multiplos) |  ✅ |
+| 1045 | multiplos | [1044](https://github.com/fbrunoviana/javascript-beecrowd/tree/main/00-Iniciante/1044-multiplos) |  ✅ |
 ## Contribuições
 Sugestões e contribuições são bem-vindas. Por favor, abra um 'issue' ou 'pull request' para colaborar.
 

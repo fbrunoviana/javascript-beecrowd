@@ -35,7 +35,7 @@ function tipoDeTriangulo(a, b, c){
     // se apenas dois dos lados forem iguais, apresente a mensagem: TRIANGULO ISOSCELES
     if ( (a === b && a !== c) || (a === c && a !== b) || (b === c && b !== a)) tipo.push("TRIANGULO ISOSCELES"); 
     // se A ≥ B+C, apresente a mensagem: NAO FORMA TRIANGULO
-    if (a >= b + c ) return tipo = ["NAO FORMA TRIANGULO"];
+    if (a >= b + c ) tipo = ["NAO FORMA TRIANGULO"];
     return tipo;
 }
 
